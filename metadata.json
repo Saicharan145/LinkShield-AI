@@ -1,0 +1,6 @@
+{
+  "name": "LinkShield AI — Smart Phishing URL Detector",
+  "description": "AI-powered cybersecurity platform that analyzes suspicious links, detects typosquatting and brand impersonation, and delivers instant risk scores with explainable threat intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
